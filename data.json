@@ -1,0 +1,115 @@
+{
+    "users": [
+        {
+            "name": "Muhammad Shehroz Sarmad",
+            "student_id": "21-CS-59",
+            "hostel": "Q Hall",
+            "room_number": "245",
+            "mess_number": "489",
+            "attendance": {
+                "january": {
+                    "fee_status":"",
+                    "meal1": [],
+                    "meal2": [],
+                    "meal3": [],
+                    "meal4": [],
+                    "meal5": [],
+                    "meal6": [],
+                    "meal7": [],
+                    "meal8": [],
+                    "meal9": [],
+                    "meal10": [],
+                    "meal11": [],
+                    "meal12": [],
+                    "meal13": [],
+                    "meal14": []
+                },
+                "febraury": {},
+                "march": {},
+                "april": {},
+                "may": {},
+                "june": {},
+                "july": {},
+                "august": {},
+                "september": {},
+                "october": {},
+                "november": {},
+                "december": {}
+            }
+        },
+        {
+            "name": "Muhammad Rehan Maqbool",
+            "student_id": "21-CS-65",
+            "hostel": "Q Hall",
+            "room_number": "219",
+            "mess_number": "400",
+            "attendance": {
+                "january": {
+                    "meal1": [true, false, false, true, true],
+                    "meal2": [],
+                    "meal3": [],
+                    "meal4": [],
+                    "meal5": [],
+                    "meal6": [],
+                    "meal7": [],
+                    "meal8": [],
+                    "meal9": [],
+                    "meal10": [],
+                    "meal11": [],
+                    "meal12": [],
+                    "meal13": [],
+                    "meal14": []
+                },
+                "febraury": {},
+                "march": {},
+                "april": {},
+                "may": {},
+                "june": {},
+                "july": {},
+                "august": {},
+                "september": {},
+                "october": {},
+                "november": {},
+                "december": {}
+            }
+        }
+    ],
+    "mess_data": {
+        "mess_timings": {
+            "brunch": {
+                "start_time": "11:00",
+                "end_time": "12:00"
+            },
+            "dinner": {
+                "start_time": "6:00",
+                "end_time": "7:30"
+            }
+        },
+        "meals": {
+            "Monday": {
+                "brunch": {
+                    "menu": ["Idli"]
+                },
+                "dinner": {
+                    "menu": ["Roti"]
+                }
+            },
+            "Tuesday": {
+                "brunch": {
+                    "menu": ["Idli"]
+                },
+                "dinner": {
+                    "menu": ["Roti"]
+                }
+            },
+            "Sunday": {
+                "brunch": {
+                    "menu": ["Idli"]
+                },
+                "dinner": {
+                    "menu": ["Roti"]
+                }
+            }
+        }
+    }
+}
