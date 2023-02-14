@@ -1,0 +1,260 @@
+{
+    "admin": {
+        "name": "admin",
+        "pswrd": "adminpasscode"
+    },
+    "users": [
+        {
+            "name": "shehroz",
+            "student_id": "21-cs-59",
+            "hostel": "q hall",
+            "room_number": "245",
+            "mess_number": "489",
+            "attendance": {
+                "January": {
+                    "fee_status": "false",
+                    "meal1": [
+                        true,
+                        true,
+                        true
+                    ],
+                    "meal2": [
+                        true
+                    ],
+                    "meal3": [
+                        true,
+                        true
+                    ],
+                    "meal4": [
+                        true
+                    ],
+                    "meal5": [],
+                    "meal6": [
+                        true,
+                        true
+                    ],
+                    "meal7": [
+                        true
+                    ],
+                    "meal8": [
+                        true
+                    ],
+                    "meal9": [
+                        true
+                    ],
+                    "meal10": [
+                        true
+                    ],
+                    "meal11": [
+                        true,
+                        true
+                    ],
+                    "meal12": [
+                        true
+                    ],
+                    "meal13": [
+                        true
+                    ],
+                    "meal14": [
+                        true
+                    ]
+                }
+            }
+        },
+        {
+            "name": "huzaifa",
+            "student_id": "21-cp-46",
+            "hostel": "q hall",
+            "room_number": "148",
+            "mess_number": "47",
+            "attendance": {
+                "January": {
+                    "fee_status": "",
+                    "meal1": [],
+                    "meal2": [
+                        true,
+                        true
+                    ],
+                    "meal3": [
+                        true,
+                        true
+                    ],
+                    "meal4": [
+                        true,
+                        true
+                    ],
+                    "meal5": [],
+                    "meal6": [
+                        true,
+                        true
+                    ],
+                    "meal7": [
+                        true
+                    ],
+                    "meal8": [
+                        true,
+                        true
+                    ],
+                    "meal9": [
+                        true,
+                        true
+                    ],
+                    "meal10": [
+                        true,
+                        true
+                    ],
+                    "meal11": [
+                        true,
+                        true
+                    ],
+                    "meal12": [],
+                    "meal13": [
+                        true,
+                        true
+                    ],
+                    "meal14": []
+                }
+            }
+        },
+        {
+            "name": "awais ali",
+            "student_id": "21-cp-22",
+            "hostel": "q hall",
+            "room_number": "245",
+            "mess_number": "490",
+            "attendance": {
+                "January": {
+                    "fee_status": "",
+                    "meal1": [],
+                    "meal2": [
+                        true
+                    ],
+                    "meal3": [
+                        true
+                    ],
+                    "meal4": [
+                        true,
+                        true
+                    ],
+                    "meal5": [
+                        true
+                    ],
+                    "meal6": [
+                        true,
+                        true,
+                        true
+                    ],
+                    "meal7": [
+                        true
+                    ],
+                    "meal8": [
+                        true
+                    ],
+                    "meal9": [
+                        true
+                    ],
+                    "meal10": [
+                        true
+                    ],
+                    "meal11": [
+                        true,
+                        true
+                    ],
+                    "meal12": [
+                        true
+                    ],
+                    "meal13": [
+                        true
+                    ],
+                    "meal14": []
+                }
+            }
+        }
+    ],
+    "mess_data": {
+        "mess_timings": {
+            "brunch": {
+                "start_time": "11:00 AM",
+                "end_time": "12:00 PM"
+            },
+            "dinner": {
+                "start_time": "6:00 PM",
+                "end_time": "7:30 PM"
+            }
+        },
+        "meals": {
+            "Monday": {
+                "brunch": [
+                    "Chicken Qorma"
+                ],
+                "dinner": [
+                    "Kashmiri Rice"
+                ]
+            },
+            "Tuesday": {
+                "brunch": [
+                    "Chicken Biryani"
+                ],
+                "dinner": [
+                    "Daal Mash + Sweet"
+                ]
+            },
+            "Wednesday": {
+                "brunch": [
+                    "Shahi Chanay"
+                ],
+                "dinner": [
+                    "Chana Rice + Raita"
+                ]
+            },
+            "Thursday": {
+                "brunch": [
+                    "Chicken Roast + Daal"
+                ],
+                "dinner": [
+                    "Chicken Daleem"
+                ]
+            },
+            "Friday": {
+                "brunch": [
+                    "Chicken Pulao"
+                ],
+                "dinner": [
+                    "Anda Bhujya"
+                ]
+            },
+            "Saturday": {
+                "brunch": [
+                    "Chicken Aloo"
+                ],
+                "dinner": [
+                    "Daal Chana + Sweet"
+                ]
+            },
+            "Sunday": {
+                "brunch": [
+                    "aloo"
+                ],
+                "dinner": [
+                    "palak"
+                ]
+            }
+        },
+        "price": {
+            "meal1": 23.0,
+            "meal2": 53.0,
+            "meal3": 2435.0,
+            "meal4": 234.0,
+            "meal5": 5234.0,
+            "meal6": 52.0,
+            "meal7": 542.0,
+            "meal8": 3545.0,
+            "meal9": 5476.0,
+            "meal10": 64.0,
+            "meal11": 46.0,
+            "meal12": 456.0,
+            "meal13": 456.0,
+            "meal14": 4.0
+        }
+    }
+}
